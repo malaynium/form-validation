@@ -1,0 +1,1 @@
+# regex and error display script for form validation 
